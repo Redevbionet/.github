@@ -1,10 +1,4 @@
-
-
-
-
-
-<!-- From Uiverse.io by aguerquin --> 
-<div class="button-icon">
+<div class="button">
   <div class="icon">
     <svg viewBox="0 0 24 24">
       <path
