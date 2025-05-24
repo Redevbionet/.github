@@ -42,10 +42,7 @@ button:after {
   height: 2px;
   background-color: #fff;
   transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
-  transition-duration: 400ms;
-  transition-property: width, left;
-}
-
+  transition-duration: 400ms
 
 
 <!--
