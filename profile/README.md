@@ -1,16 +1,16 @@
 
 
 
-##🧩 Redevbionet 
-### wellcomto redevbionet 
+##🧩 Redevbionet 🧩
+### wellcomto redevbionet Developer, storage system, specializing in system development, protection and analysis. 
 Z`Z
-## Developer, storage system, specializing in system development, protection and analysis. 
 
 
 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://png.pngtree.com/png-clipart/20230914/original/pngtree-computer-science-character-working-at-desk-vector-png-image_11089244.png)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
 
 <!--
 
