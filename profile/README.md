@@ -11,9 +11,6 @@ Z`Z
 
 
 
-![](https://cloudsecurityalliance.org/assets/star/registry/STAR-Level-2-badge-faef7dc46990d667f1ce083d3d10a7c9ddee480de12ef57c8d33d83ad2894831.svg) 
-![](https://cloudsecurityalliance.org/assets/star/registry/STAR-Level-1-badge-f572686709b8f897f07df08ad760e0fe05f6fd523aff965a5b283e19d60247fa.svg)
-
 
 
 
