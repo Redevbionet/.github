@@ -1,5 +1,5 @@
 
-<img width="750" height="400" alt="image" src= "https://avatars.githubusercontent.com/u/212144175?s=400&u=0fa1639a8f6714b5d061b84ac07a0b8198c59ad2&v=4" />
+<img width="200" height="200" alt="image" src= "https://avatars.githubusercontent.com/u/212144175" />
 
 ##  🧩 Redevbionet 🧩
 ###  Developer, Expert in system development storage system, specializing in system development, protection and analysis. 
