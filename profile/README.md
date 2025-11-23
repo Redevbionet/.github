@@ -34,7 +34,7 @@ Z`Z
 ## ใบรับรอง
 
 
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/045499ae-cdaf-435d-ba8d-86a7a03045d9" />
+<img width="750" height="400" alt="image" src= "https://github.com/user-attachments/assets/045499ae-cdaf-435d-ba8d-86a7a03045d9" />
 
 
 
